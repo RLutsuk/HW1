@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define _CRT_SECURE_NO_WARNINGS // Библиотека для функции scanf
+#define _CRT_SECURE_NO_WARNINGS 
 
 double revers_power(double x, int osnov, int step) { // Функция умножение числа x на (osnov ^ -step)
     int i;
